@@ -9,6 +9,7 @@ To run Competency Tracker, navigate your CLI to the folder containing the applic
 ## Login
 
 You can login for the first time using the email address **admin@newuser.com** and password **admin_pass**.
+Once logged in, it is recommended that you create your own manager account.
 
 ## Using Competency Tracker
 
