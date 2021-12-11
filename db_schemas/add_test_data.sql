@@ -5,7 +5,8 @@ VALUES
 ('Bob', 'Ross', '701-345-3882', 'bobross@happytrees.com', 'testpass2', '1987-12-01', 0),
 ('Gene', 'Roddenberry', '789-193-6837', 'starbase1@yahoo.com', 'testpass3', '1967-08-31', 0),
 ('Mary', 'de Luca', '583-543-9012', 'mdeluca@gmail.com', 'testpass4', '2020-02-28', 0),
-('Dalinar', 'Kholin', '784-185-3920', 'dkholin@alethkar.com', 'testpass5', '2015-10-20', 1);
+('Dalinar', 'Kholin', '784-185-3920', 'dkholin@alethkar.com', 'testpass5', '2015-10-20', 1),
+('Admin', 'Admin', '000-000-0000', 'admin@newuser.com', 'admin_pass', '1990-01-20', 1);
 
 INSERT INTO Competencies
 (name)
